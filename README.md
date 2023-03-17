@@ -14,7 +14,7 @@ The ResNet implemented in this repository consists of three Residual Blocks, eac
 
 The model architecture can be summarized as follows:
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param   
 =================================================================
 res_block (ResBlock)         (None, 14, 14, 64)        124736    
 _________________________________________________________________
